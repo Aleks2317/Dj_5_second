@@ -39,6 +39,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'post.apps.PostConfig',
     'onetoone.apps.OnetooneConfig',
+    'onetomane.apps.OnetomaneConfig',
+    'manytomany.apps.ManytomanyConfig',
 
 ]
 
