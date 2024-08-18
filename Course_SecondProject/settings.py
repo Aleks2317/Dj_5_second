@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'onetoone.apps.OnetooneConfig',
     'onetomane.apps.OnetomaneConfig',
     'manytomany.apps.ManytomanyConfig',
+    'orm_method.apps.OrmMethodConfig',
 
 ]
 
